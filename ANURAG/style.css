@@ -1,0 +1,39 @@
+h1,h2,h3,h4{
+    text-align: center;
+    font-style: italic;
+    color: rgb(6, 68, 239);
+    background-color: rgb(203, 196, 255);
+    border: 1px;
+    border-style: double;
+    border-color: black;
+
+}
+p{
+    text-align: center;
+    color: antiquewhite;
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+ol{
+    list-style-type:circle     ;
+    color:darkblue;
+}
+img{
+    width: 200Opx;
+    height: 400px;
+}
+table,th,td{
+    border: 3px solid black;
+    text-align: center;
+    width: 50%;
+    background-color: aqua;
+}
+.head2{
+    background-color:blueviolet ;
+    margin: 20px;
+    padding: 70px;
+    border: 2px  gray;
+    border-radius: 90px;
+}
